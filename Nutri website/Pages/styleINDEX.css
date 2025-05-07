@@ -1,0 +1,130 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.hd1{
+    background-color: #60E063;
+}
+
+.img {
+    width: 44%;
+}
+
+.txt {
+    
+    width: 50%;
+}
+
+.strong{
+    font-size: 35px;
+}
+
+.links{
+    background-color:rgb(255, 255, 255);
+    
+    
+}
+
+.linkscontainer{
+    display: flex;
+    ;
+}
+
+
+.a{
+    color: rgb(0, 0, 0);
+
+}
+
+a:active{
+    color:#60E063;
+
+}
+
+a:hover{
+
+}
+
+.p{
+    font-family: serif;
+}
+.agendamento{
+    text-align: center;
+cursor: pointer;
+padding: 7px;
+width:200px;
+}
+
+.agendamento:hover{
+    background-color: rgb(220, 220, 220);
+}
+
+.blog{ 
+    cursor: pointer;
+    text-align: center;
+cursor: pointer;
+padding: 7px;
+width:200px;
+}
+
+.blog:hover{
+    background-color: rgb(220, 220, 220) ;
+}
+
+.Newsletter{
+    cursor: pointer;
+    text-align: center;
+cursor: pointer;
+padding: 7px;
+width:200px;
+}
+
+.Newsletter:hover{
+    background-color: rgb(220, 220, 220) ;
+}
+
+.ebooks{
+    cursor: pointer;
+    text-align: center;
+cursor: pointer;
+padding: 7px;
+width:200px;
+}
+
+.ebooks:hover{
+    background-color: rgb(220, 220, 220) ;
+}
+
+.sobre{
+    cursor: pointer;
+    text-align: center;
+cursor: pointer;
+padding: 7px;
+width:200px;
+}
+
+.sobre:hover{
+    background-color: rgb(220, 220, 220) ;
+}
+
+
+
+.footer{
+    background-color: #ededed;
+}
+
+
+
+.navbar{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar a{
+    text-decoration: none;  
+    text-shadow: 9px;
+}
+
+/*comentário
