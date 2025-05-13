@@ -1,8 +1,8 @@
 .body{
     margin: 0px;
     padding: 0px;
+    background-color: rgb(246, 246, 246);
 }
-
 
 
 .img {
@@ -47,7 +47,7 @@
 }
 
 .nav:hover{
-    background-color: rgb(161, 227, 169);
+    background-color:  rgb(198, 211, 211);
 
 }
 
@@ -58,7 +58,7 @@ cursor: pointer;
 }
 
 .login:hover{
-background-color:rgb(161, 227, 169);
+background-color: rgb(198, 211, 211);
 }
 
 .c{
@@ -77,11 +77,16 @@ float: center;
 }
 
 .fttr:active{
-    color:#60E063;
+    color: rgb(198, 211, 211);
 
 }
 
 .fttr:hover{
- color: #60E063;
+ color: rgb(198, 211, 211);
 }
-/*comentário
+
+.dias{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

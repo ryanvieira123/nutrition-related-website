@@ -1,0 +1,109 @@
+.body{
+    background-color: rgb(255, 255, 255);
+}
+
+.calendar{
+    background-color: rgb(198, 211, 211);
+    width: 700px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin: 40px;
+}
+.diasdaSemana{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    margin-top:20px ;
+    
+    
+
+}
+
+.dias{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    }
+
+   
+
+    .diasTopo{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top:50px ;
+        }
+    .diasBottom{
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding-bottom:50px ;
+    }
+
+
+
+    .diasContainer{
+    width: 100%;
+    
+    padding-left: 0px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 90px;  
+    cursor: pointer;  
+    }
+    .diasContainer:hover{
+        background-color: aliceblue;
+    }
+
+    .diasContainer::selection{
+        background-color: aquamarine;
+    }
+
+.month{
+    padding-top: 30px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.strong{
+    font-size: 45px;
+}
+
+.strong.semana{
+    font-size: 120px;
+    padding-top: 50px;
+    text-align: center;
+    float: center;
+}
+
+.strong.dias{
+cursor: pointer;
+font-size:30px ;
+padding-top: 50px;
+
+}
+
+.strong.dias:hover{
+    background-color:  gray;
+}
+.semanaContainer{
+   
+    width: 100%;
+    
+    padding-left: 0px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,92 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.img {
+    width: 100%;
+    justify-content: space-between;
+}
+
+
+
+
+.strong{
+    font-size: 35px;
+    float: right;
+}
+
+.input{
+    
+    height: 20px;
+    border-radius: 9px;
+    float: right;
+    ;
+}
+
+.links{
+    background-color:rgb(255, 255, 255);
+    
+    
+}
+
+.linkscontainer{
+    display: flex;
+    ;
+}
+
+.nav{
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.nav:hover{
+    background-color:  rgb(198, 211, 211);
+
+}
+
+.login{
+border-radius: 50%;
+display: inline-block;
+cursor: pointer;
+}
+
+.login:hover{
+background-color: rgb(198, 211, 211);
+}
+
+.c{
+text-decoration: none;
+color: black;
+text-align: center;
+float: center;
+}
+
+
+
+
+.fttr{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.fttr:active{
+    color: rgb(198, 211, 211);
+
+}
+
+.fttr:hover{
+ color: rgb(198, 211, 211);
+}
+
+.dias{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
